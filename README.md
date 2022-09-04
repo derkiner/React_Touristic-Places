@@ -6,6 +6,10 @@
 
 - React Hooks ( useEffect + useState )
 - Props Drilling
+- Ternary Operator
+- Async & Await  / Try & Catch
+- Props & Function Destructuring
+- CSS Styling
 - Clean Code Writing Principles
 - Inspired by the Senior Developer, John Smilga's Work
 
