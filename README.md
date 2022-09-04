@@ -25,7 +25,7 @@ npm start
 - Build for production:
 npm run build
 
-<hr>
+
 ![image](https://user-images.githubusercontent.com/90147636/188326684-967aa809-ee85-43c1-8ead-0b49231b231b.png)
 
 ![image](https://user-images.githubusercontent.com/90147636/188326694-829b66de-18d1-4c12-8ad5-bc8e17a38ca1.png)
