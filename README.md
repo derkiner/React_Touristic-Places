@@ -10,7 +10,7 @@
 - Async & Await  / Try & Catch
 - Props & Function Destructuring
 - CSS Styling (Linear Gradients, Text Shadowing & Box Shadowing , Google Fonts)
-- Clean Code Writing Principles
+- Clean Code Writing Principles + Detailed Notes
 - Inspired by the Senior Developer, John Smilga's Work
 
 <hr>
