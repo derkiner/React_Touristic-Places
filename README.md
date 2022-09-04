@@ -7,7 +7,8 @@
 - React Hooks ( useEffect + useState )
 - Props Drilling
 - Ternary Operator
-- Async & Await  / Try & Catch
+- Try & Catch 
+- Async & Await  
 - Props & Function Destructuring
 - CSS Styling (Linear Gradients, Text Shadowing & Box Shadowing , Google Fonts)
 - Clean Code Writing Principles + Detailed Notes
