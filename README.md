@@ -15,7 +15,7 @@
 
 <hr>
 
-## HOW IT WORKS
+## HOW IT WORKS:
 - Install dependencies:
 npm install
 
