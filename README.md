@@ -9,7 +9,7 @@
 - Ternary Operator
 - Async & Await  / Try & Catch
 - Props & Function Destructuring
-- CSS Styling
+- CSS Styling (Linear Gradients, Text Shadowing & Box Shadowing , Google Fonts)
 - Clean Code Writing Principles
 - Inspired by the Senior Developer, John Smilga's Work
 
