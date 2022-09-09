@@ -1,4 +1,4 @@
-## React / Touristic Place
+## React / Touristic Places
 
 <hr>
 
