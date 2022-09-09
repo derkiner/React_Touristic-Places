@@ -2,7 +2,7 @@
 
 <hr>
 
-## FEATURES:
+## FEATURES & METHODS:
 
 - React Hooks ( useEffect + useState )
 - Props Drilling
