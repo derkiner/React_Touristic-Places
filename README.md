@@ -1,4 +1,4 @@
-## React / To-Do App 
+## React / Touristic Place
 
 <hr>
 
